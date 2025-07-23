@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv/
+.env.*
+
+# Data files
+*.csv
+*.json
+*.parquet
+
+# VS Code
+.vscode/
+
+# MacOS metadata
+.DS_Store
